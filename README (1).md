@@ -261,9 +261,9 @@ Based on the analytical findings, the following actions are recommended for rest
 
 ## Author
 
-**[Your Name]**  
+**[Muhammad Faham Tariq]**  
 Data Analyst | Python | Power BI | SQL  
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username) · [Portfolio](https://your-portfolio.com)
+[LinkedIn](https://www.linkedin.com/in/muhammad-faham-tariq-a0b53b409/) · [GitHub](https://github.com/fahamaiarchitect) .[Insatgram](https://www.instagram.com/faham234566/)
 
 ---
 
