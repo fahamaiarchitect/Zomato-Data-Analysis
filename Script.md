@@ -200,11 +200,11 @@ Add screenshots of:
 
 Aspiring Data Analyst | AI Automation Engineer | Python Developer
 
-📧 Email: Your Email Here
+📧 Email: faham7106@gmail.com
 
-🔗 LinkedIn: Your LinkedIn Profile
+🔗 LinkedIn: www.linkedin.com/in/muhammad-faham-tariq-a0b53b409
 
-🔗 GitHub: Your GitHub Profile
+🔗 GitHub: 
 
 ---
 
