@@ -262,7 +262,7 @@ Based on the analytical findings, the following actions are recommended for rest
 
 ## Author
 
-**[Your Name]**  
+**[fahamaiarchitect]**  
 Data Analyst | Python | Power BI | SQL  
 [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username) .[Email](faham7106@gmail.com)
 
