@@ -264,7 +264,7 @@ Based on the analytical findings, the following actions are recommended for rest
 
 **[Muhammad Faham Tariq]**  
 Data Analyst | Python | Power BI | SQL  
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username) .[Email](faham7106@gmail.com)
+[LinkedIn](https://linkedin.com/in/your-profile) · [Instagram](https://www.instagram.com/faham234566/) .[Email](faham7106@gmail.com)
 
 ---
 
