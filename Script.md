@@ -203,9 +203,6 @@ Aspiring Data Analyst | AI Automation Engineer | Python Developer
 📧 Email: faham7106@gmail.com
 
 🔗 LinkedIn: www.linkedin.com/in/muhammad-faham-tariq-a0b53b409
-
-🔗 GitHub: 
-
 ---
 
 ## ⭐ If you found this project useful, consider giving it a star!
